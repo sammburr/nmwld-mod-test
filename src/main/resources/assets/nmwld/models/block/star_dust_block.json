@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+      "all": "nmwld:block/star_dust_block"
+    }
+}

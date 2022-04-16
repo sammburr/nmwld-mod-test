@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "nmwld:block/star_dust_block" },
+    "lit=true": { "model": "nmwld:block/star_dust_block_lit" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "nmwld:star_dust"
+      }
+    },
+    "result": {
+      "item": "nmwld:star_dust_block"
+    }
+  }
